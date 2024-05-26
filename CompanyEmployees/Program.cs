@@ -11,7 +11,12 @@ builder.Services.ConfigureCors();
 builder.Services.ConfigureIISIntegration();
 builder.Services.ConfigureLoggerService();
 
-builder.Services.AddControllers()
+builder.Services.AddControllers(config =>
+    {
+        config.RespectBrowserAcceptHeader = true;
+        config.ReturnHttpNotAcceptable = true;
+    }).AddXmlDataContractSerializerFormatters()
+    .AddCustomCSVFormmatter()
     .AddApplicationPart(typeof(CompanyEmployees.Presentation.AssemblyReference).Assembly);
 
 builder.Services.ConfigureRepositoryManager();
