@@ -1,7 +1,6 @@
 using CompanyEmployees.Extensions;
 using Microsoft.AspNetCore.HttpOverrides;
 using NLog;
-using System.Runtime;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +11,10 @@ builder.Services.ConfigureIISIntegration();
 builder.Services.ConfigureLoggerService();
 
 builder.Services.AddControllers();
+
+builder.Services.ConfigureRepositoryManager();
+builder.Services.ConfigureServiceManager();
+builder.Services.ConfigureSqlContext(builder.Configuration);
 
 var app = builder.Build();
 
