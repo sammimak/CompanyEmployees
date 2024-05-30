@@ -1,26 +1,29 @@
 ﻿using System;
 using Shared.DataTransferObjects;
-using Entities.Models; 
+using Shared.RequestFeatures;
+using Entities.Models;
+using System.Dynamic;
+using Entities.LinkModels;
 
 namespace Service.Contracts
 {
 	public interface IEmployeeService
 	{
-		IEnumerable<EmployeeDTO> GetEmployees(Guid companyId, bool trackChanges);
+		Task<(LinkResponse linkResponse, MetaData metaData)> GetEmployeesAsync(Guid companyId, LinkParameters linkParameters, bool trackChanges);
 
-		EmployeeDTO GetEmployee(Guid companyId, Guid id, bool trackChanges);
+		Task<EmployeeDTO> GetEmployeeAsync(Guid companyId, Guid id, bool trackChanges);
 
-		EmployeeDTO CreateEmployeeForCompany(Guid companyId, EmployeeForCreationDTO employeeForCreation, bool trackChanges);
+		Task<EmployeeDTO> CreateEmployeeForCompanyAsync(Guid companyId, EmployeeForCreationDTO employeeForCreation, bool trackChanges);
 
-		void DeleteEmployeeForCompany(Guid companyId, Guid id, bool trackChanges);
+		Task DeleteEmployeeForCompanyAsync(Guid companyId, Guid id, bool trackChanges);
 
-        void UpdateEmployeeForCompany(Guid companyId, Guid id, EmployeeForUpdateDTO employeeForUpdate, bool compTrackChanges,
+        Task UpdateEmployeeForCompanyAsync(Guid companyId, Guid id, EmployeeForUpdateDTO employeeForUpdate, bool compTrackChanges,
 									  bool empTrackChanges);
 
-		(EmployeeForUpdateDTO employeeToPatch, Employee employeeEntity) GetEmployeeForPatch(Guid companyId, Guid id, bool compTrackChanges,
+		Task<(EmployeeForUpdateDTO employeeToPatch, Employee employeeEntity)> GetEmployeeForPatchAsync(Guid companyId, Guid id, bool compTrackChanges,
 			bool empTrackChanges);
 
-		void SaveChangesForPatch(EmployeeForUpdateDTO employeeToPatch, Employee employeeEntity);
+		Task SaveChangesForPatchAsync(EmployeeForUpdateDTO employeeToPatch, Employee employeeEntity);
     }
 }
 

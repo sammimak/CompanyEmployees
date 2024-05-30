@@ -1,0 +1,15 @@
+C:\CompanyEmployees\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\CompanyEmployees\Entities\bin\Debug\net6.0\Entities.dll
+C:\CompanyEmployees\Entities\bin\Debug\net6.0\Entities.pdb
+C:\CompanyEmployees\Entities\bin\Debug\net6.0\Shared.dll
+C:\CompanyEmployees\Entities\bin\Debug\net6.0\Shared.pdb
+C:\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.csproj.Up2Date
+C:\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.dll
+C:\CompanyEmployees\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.pdb
+C:\CompanyEmployees\Entities\obj\Debug\net6.0\ref\Entities.dll

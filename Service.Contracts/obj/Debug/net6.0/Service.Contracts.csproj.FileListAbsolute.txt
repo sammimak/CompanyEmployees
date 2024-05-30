@@ -1,0 +1,17 @@
+C:\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Service.Contracts.deps.json
+C:\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Service.Contracts.dll
+C:\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Service.Contracts.pdb
+C:\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Entities.dll
+C:\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Shared.dll
+C:\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Shared.pdb
+C:\CompanyEmployees\Service.Contracts\bin\Debug\net6.0\Entities.pdb
+C:\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.AssemblyReference.cache
+C:\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfoInputs.cache
+C:\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfo.cs
+C:\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CoreCompileInputs.cache
+C:\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service..DEC3DE55.Up2Date
+C:\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.dll
+C:\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\refint\Service.Contracts.dll
+C:\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.pdb
+C:\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\ref\Service.Contracts.dll
