@@ -1,8 +1,11 @@
-﻿namespace Shared.DataTransferObjects;
-
-public record CompanyDto
+﻿using System;
+namespace Shared.DataTransferObjects
 {
-    public Guid Id { get; init; }
-    public string? Name { get; init; }
-    public string? FullAddress { get; init; }
+    public record CompanyDTO
+    {
+        public Guid Id { get; init; } // makes it inmutable
+        public string? Name { get; init; }
+        public string? FullAddress { get; init; }
+    }
 }
+
