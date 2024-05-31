@@ -1,12 +1,10 @@
 ﻿
-using System;
 using Service.Contracts;
 using Contracts;
 using AutoMapper;
 using Entities.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Configuration;
-using Shared.DataTransferObjects;
 
 namespace Service
 {

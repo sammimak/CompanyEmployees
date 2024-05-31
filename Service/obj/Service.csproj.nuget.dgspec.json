@@ -198,7 +198,7 @@
           "dependencies": {
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[7.6.0, )"
+              "version": "[6.34.0, )"
             }
           },
           "imports": [
@@ -273,6 +273,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[11.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [

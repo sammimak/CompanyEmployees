@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "d:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj": {}
+    "D:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj": {}
   },
   "projects": {
     "D:\\workspace\\csharp\\CompanyEmployees\\Contracts\\Contracts.csproj": {
@@ -147,14 +147,14 @@
         }
       }
     },
-    "d:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj": {
+    "D:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "d:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj",
+        "projectPath": "D:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\CompanyEmployees\\Repository\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\CompanyEmployees\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

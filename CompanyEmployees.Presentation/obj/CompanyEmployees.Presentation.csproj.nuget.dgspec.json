@@ -220,7 +220,7 @@
           "dependencies": {
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[7.6.0, )"
+              "version": "[6.34.0, )"
             }
           },
           "imports": [

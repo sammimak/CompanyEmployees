@@ -194,3 +194,7 @@ D:\workspace\csharp\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\refint\Co
 D:\workspace\csharp\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.pdb
 D:\workspace\csharp\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.genruntimeconfig.cache
 D:\workspace\csharp\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\ref\CompanyEmployees.dll
+D:\workspace\csharp\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\workspace\csharp\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\workspace\csharp\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\workspace\csharp\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
