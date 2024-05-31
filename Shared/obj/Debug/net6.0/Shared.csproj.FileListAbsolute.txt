@@ -9,3 +9,15 @@ C:\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.dll
 C:\CompanyEmployees\Shared\obj\Debug\net6.0\refint\Shared.dll
 C:\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.pdb
 C:\CompanyEmployees\Shared\obj\Debug\net6.0\ref\Shared.dll
+D:\workspace\csharp\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.deps.json
+D:\workspace\csharp\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.dll
+D:\workspace\csharp\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.pdb
+D:\workspace\csharp\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+D:\workspace\csharp\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+D:\workspace\csharp\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.sourcelink.json
+D:\workspace\csharp\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.dll
+D:\workspace\csharp\CompanyEmployees\Shared\obj\Debug\net6.0\refint\Shared.dll
+D:\workspace\csharp\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.pdb
+D:\workspace\csharp\CompanyEmployees\Shared\obj\Debug\net6.0\ref\Shared.dll

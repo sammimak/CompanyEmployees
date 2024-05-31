@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj": {}
+    "d:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj": {}
   },
   "projects": {
     "D:\\workspace\\csharp\\CompanyEmployees\\Contracts\\Contracts.csproj": {
@@ -118,6 +118,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
             "Microsoft.AspNetCore.Mvc.Abstractions": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -143,14 +147,14 @@
         }
       }
     },
-    "D:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj": {
+    "d:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj",
+        "projectUniqueName": "d:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj",
+        "projectPath": "d:\\workspace\\csharp\\CompanyEmployees\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\csharp\\CompanyEmployees\\Repository\\obj\\",
+        "outputPath": "d:\\workspace\\csharp\\CompanyEmployees\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

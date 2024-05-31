@@ -28,7 +28,6 @@
     <ProjectReference Include="..\Entities\Entities.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Controllers\" />
     <Folder Include="ModelBinders\" />
     <Folder Include="ActionFilters\" />
   </ItemGroup>
